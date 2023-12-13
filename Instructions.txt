@@ -1,0 +1,1 @@
+Right click on zipped folder then click extract then open new folder and click index.html
